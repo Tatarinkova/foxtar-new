@@ -1,0 +1,11 @@
+body {
+  background-color: #11cd23;
+}
+
+.box {
+  text-align: center;
+}
+
+.box:hover {
+  text-decoration: none;
+}
